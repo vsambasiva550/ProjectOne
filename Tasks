@@ -1,0 +1,7 @@
+Setup git configuration in local system
+Create new repository in local & Add files to staging area then move files to local repo
+check if the folder is working copy or not 
+how to identify the tracked files and untracked files in current folder 
+create branches 1, 3 & 5 in a format (create 3 on top of 5 & create 5 on top of 5) 
+perform branch merge operations 
+Create conflicts & resolve them in Bug1 & Bug2 branches
